@@ -1,7 +1,7 @@
 # music-player
 <img src='music-player.gif'>
 
-[live-server](https://ehdgodgka.github.io/j20-music-player)
+[live-server](https://ehdgodgka.github.io/js20-music-player)
 
 
 - music player with custom controls and animation
